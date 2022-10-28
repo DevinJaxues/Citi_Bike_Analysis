@@ -1,7 +1,7 @@
 # Citi Bike Challenge
 ## Devin Monsen
 ### 10/28/2022
-[link to dashboard]((https://public.tableau.com/app/profile/devinjaxues/viz/CitiBike_Visualizations_16669190569950/FinalPresentation) "link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/devinjaxues/viz/CitiBike_Visualizations_16669190569950/FinalPresentation)
 ---
 ## Overview of Citi Bike Visualizations ##
 ---
