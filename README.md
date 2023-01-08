@@ -1,11 +1,11 @@
-# Citi Bike Challenge
+# Citi Bike Analysis
 ## Devin Monsen
 ### 10/28/2022
 [link to dashboard](https://public.tableau.com/app/profile/devinjaxues/viz/CitiBike_Visualizations_16669190569950/FinalPresentation)
 ---
 ## Overview of Citi Bike Visualizations ##
 ---
-In this analysis our purpose was to take a data set and answer questions using visualizations. When it came to the Citi Bike data, we looked into gender, location, membership and useage indicators. To tell a story using Tableau.
+In this analysis my objective was to take a data set and answer questions using visualizations. When it came to the Citi Bike data, I used gender, location, membership and useage indicators to tell a story using Tableau.
 ---
 ## Results ##
 ---
